@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.7d00dfa1.chunk.js",
+    "main.js.map": "/static/js/main.7d00dfa1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ef73297.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ef73297.js.map",
+    "static/js/2.3c54521b.chunk.js": "/static/js/2.3c54521b.chunk.js",
+    "static/js/2.3c54521b.chunk.js.map": "/static/js/2.3c54521b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.28ce9c310384ac4b4dce7b3a992c23cf.js": "/precache-manifest.28ce9c310384ac4b4dce7b3a992c23cf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/KANGU-08-07-2019.pdf": "/static/media/KANGU-08-07-2019.22fb542e.pdf"
+  }
+}
