@@ -6,9 +6,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 function App() {
   return (
     <div>
-      <Document
-        file={kangu}
-      >
+      <Document file={kangu}>
         <Page pageNumber={1}/>
       </Document>
     </div>
